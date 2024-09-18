@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "../SM_BluePill"
+		},
+		{
+			"name": "E8",
+			"path": "."
+		}
+	],
+	"settings": {
+		"r.lsp.promptToInstall": false,
+		"files.associations": {
+			"u09a_irq_systick.C": "cpp"
+		}
+	}
+}
