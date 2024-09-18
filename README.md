@@ -1,6 +1,6 @@
 ## Exercício de Sistemas Microcontrolados (E8)
 
-O objetivo era fazer uma "Envasadora de cerveja automática" em C e assembly, utilizando a STM32F103C8T6 (BluePill) com ARM Cortex M3.
+O objetivo era fazer uma "Envasadora de cerveja automática" em C e assembly, utilizando a STM32F103C8T6 (BluePill) com ARM Cortex M3, com a IDE PlatformIO.
 
 A imagem abaixo ilustra como seria o funcionamento do projeto.
 
