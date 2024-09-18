@@ -4,7 +4,7 @@ O objetivo era fazer uma "Envasadora de cerveja automática" em C e assembly, ut
 
 A imagem abaixo ilustra como seria o funcionamento do projeto.
 
-[!imagem](img.png)
+![imagem](img.png)
 
 As garrfas se movimentariam através de uma esteira controlada pelo microcontrolador. O Sensor 1 é ativado quando uma garrafa chega e o injetor é acionado. O Sensor 2 detecta quando a garrafa enche até o nível desejado. Após 2 segundos, o injetor para o a esteira (motor)
 é acionado até que o sensor 1 seja ativado novamente.
